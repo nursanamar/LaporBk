@@ -1,0 +1,3 @@
+rootProject.name = 'LaporBk'
+
+include ':app'
